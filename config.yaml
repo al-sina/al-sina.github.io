@@ -1,0 +1,51 @@
+title: Adolfo Alsina
+defaultContentLanguage: 'en'
+theme: eternity
+
+params:
+  homepage: /
+  dontShowLogo: true # please, do not do this :)
+  portfolio:
+    columns:
+      desktop:
+        default: 3
+      mobile:
+        default: 2
+  socials:
+    - icon: 'fa-solid fa-envelope fa-lg'
+      url: 'mailto:aalsina@igc.gulbenkian.pt'
+      landing: true
+    - icon: 'fa-solid fa-graduation-cap fa-lg'
+      url: 'https://scholar.google.com/citations?user=LBO33WsAAAAJ&hl=en'
+      landing: true
+    - icon: 'fab fa-orcid fa-lg'
+      url: 'https://orcid.org/0000-0003-2173-0777'
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  work: ":filename/"
+
+
+menu:
+  main:
+     - name: Research
+       url: /research/
+       weight: 1
+     #- name: Art
+     #  url: /art/
+     #  weight: 3
+     - name: CV
+       url: /cv/
+       weight: 2
+     - name: Publications
+       url: /papers/
+       weight: 2
+      
