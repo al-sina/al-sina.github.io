@@ -4,7 +4,13 @@
   <url>
     <loc>/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>/research/</loc>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/cv/</loc>
+  </url><url>
+    <loc>/papers/</loc>
   </url><url>
     <loc>/tags/</loc>
   </url>

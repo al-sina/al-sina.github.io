@@ -7,11 +7,30 @@
     <generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>/</link>
+      <link>/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/</guid>
-      <description>I’m a theoretical physicist working at the interface between physics and biology. A fascinating property of biological systems is their capability to reliably perform complex functions in noisy environments. My research is centred around the question of how can biological systems integrate processes at different levels of organisation to robustly perform a large variety of functions. In particular, I explore this question in different settings ranging from unicellular organisms, such as budding yeast, to collectives of social insects using a combination of analytical tools and numerical methods borrowed from statistical physics, non-equilibrium physics and data science.</description>
+      <guid>/research/</guid>
+      <description>My research is centred around the question of how can biological systems integrate processes at different levels of organisation, from the microscopic to the macroscopic, to robustly perform a large variety of functions. Below there is a list of my current research interests in no particular order.
+Multiscale control of cell-cycle dynamics The cell cycle of eukaryotic cells is a highly regulated process, composed of several steps that need to be carefully orchestrated and completed in a timely manner.</description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/</guid>
+      <description> 2022-Present PONTE postdoctoral fellow - Instituto Gulbenkian de Ciência (IGC) 2017-2022 PhD in Physics - Max Planck Institute for the Physics of Complex Systems (MPIPKS) 2016-2017 iCFP M2 in Soft Matter and Biophysics - Ecole Normale Superieure (ENS) 2011-2016 Bsc in Physics - Universidad Complutense de Madrid (UCM) 2011-2016 Bsc in Mathematics - Universidad Complutense de Madrid (UCM) </description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/papers/</guid>
+      <description>Patalano, S., Alsina, A., Gregorio-Rodríguez, C., Bachman, M., Dreier, S., Hernando-Herraez, I., Nana, P., Balasubramanian, S., Sumner, S., Reik, W. and Rulands, S., 2022. Self-organization of plasticity and specialization in a primitively social insect. Cell Systems, 13(9), pp.768-779. Qin, X., Liu, L., Lee, S.K., Alsina, A., Liu, T., Wu, C., Park, H., Yu, C., Kim, H., Chu, J. and Triller, A., 2020. Increased confinement and polydispersity of STIM1 and Orai1 after Ca2+ store depletion.</description>
     </item>
     
   </channel>
