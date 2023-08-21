@@ -34,12 +34,12 @@ markup:
 menu:
   main:
      - name: Research
-       url: /research
+       pageRef: /research
        weight: 1
      - name: CV
-       url: /cv
+       pageRef: /cv
        weight: 2
      - name: Publications
-       url: /papers
+       pageRef: /papers
        weight: 3
       
