@@ -138,7 +138,7 @@ googlefonts:
  # - url : # 'https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap'
 
 # Theme and colors
-chulapa-skin: lux
+chulapa-skin: "lux"
   highlight     :  # default["default"]
   skin         :  # Optional predefined skins
   autothemer    :  # Bool: Use autotheming
