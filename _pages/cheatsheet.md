@@ -6,4 +6,4 @@ permalink: /cheatsheets
 show_breadcrumb: true
 ---
 
-If it is first time using `markdown` and `jekyll`, you may find this pages useful.
+If it is first time using `markdown` and `jekyll`, you may find this pages useful. *Let me check if the changes somehow work*
