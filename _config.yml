@@ -138,10 +138,10 @@ googlefonts:
  # - url : # 'https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap'
 
 # Theme and colors
-chulapa-skin: 
+chulapa-skin: lux
   highlight     :  # default["default"]
   skin         :  # Optional predefined skins
-  autothemer    :  true # Bool: Use autotheming
+  autothemer    :  # Bool: Use autotheming
   vars          :    
     primary     : "#ffbe98" #default ["#007bff"] - Bootstrap blue
     
