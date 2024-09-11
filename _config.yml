@@ -1,6 +1,10 @@
 remote_theme: dieghernan/chulapa
 
 # Find errors on this file with http://www.yamllint.com/
+### Site metadata ###
+
+title: Personal Webpage
+repository: al-sina/al-sina.github.io
 
 # Chulapa docs: https://dieghernan.github.io/chulapa/docs/02-config
 
@@ -21,7 +25,7 @@ timezone                :     #"Europe/Madrid ,see https://jekyllrb.com/docs/con
 og_image                :     #default[author.avatar (see below)] or [github-avatar]
 twitter_site            :     #Avoid @
 author:
-  name                  :  Your Name   # Name Surname Company
+  name                  :  Adolfo Alsina Your Name   # Name Surname Company
   avatar                :     # Try a square file. Info: Your github avatar on https://github.com/[USERNAME].png
   location              :  "Madrid, Spain"   # New York, USA 
 #  links:                
