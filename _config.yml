@@ -143,8 +143,8 @@ googlefonts:
 
 # Theme and colors
 chulapa-skin: 
-  skin        : journal
-  autothemer  :  # Autotheming may not have any effect
+  skin        :  lux
+  #autothemer  :  # Autotheming may not have any effect
   vars        :    
     
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
