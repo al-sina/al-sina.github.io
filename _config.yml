@@ -105,12 +105,12 @@ navbar:
 #Social links to be placed on your site footer
 footer:
   links:
-    - label : Google Scholar # Label
-      icon  : fab fa-email # Fontawesome 5 icon
+    - label : "Google Scholar" # Label
+      icon  : fab fa-en # Fontawesome 5 icon
       url   : https://github.com/dieghernan/chulapa-101
-#    - label: #"RSS"
-#      icon: #"fa fa-rss"
-#      url:  #"./atom.xml"
+    - label: "Email"
+      icon: fab fa-envelope
+      url:  "./atom.xml"
 #  copyright: # default is © <year> <name> 
   
 # C. Theme Settings
