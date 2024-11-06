@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Chulapa on remote
+title: Adolfo Alsina
 header_type: hero
-subtitle: Starter pack
+subtitle: 
 ---
 
 Welcome. I am Adolfo Alsina, assistant professor at the Universidad Rey Juan Carlos (URJC) in Madrid, Spain.
