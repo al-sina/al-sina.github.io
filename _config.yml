@@ -110,7 +110,7 @@ footer:
       icon  : fab fa-en # Fontawesome 5 icon
       url   : https://github.com/dieghernan/chulapa-101
     - label: "Email"
-      icon: fab fa-envelope
+      icon: fa-regular fa-envelope
       url:  "./atom.xml"
 #  copyright: # default is © <year> <name> 
   
