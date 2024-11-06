@@ -143,7 +143,7 @@ googlefonts:
 
 # Theme and colors
 chulapa-skin: 
-  skin        :  lux
+  skin        :  gitdev
   #autothemer  :  # Autotheming may not have any effect
   vars        :    
     
