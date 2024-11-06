@@ -26,8 +26,8 @@ author:
   name                  :  Adolfo Alsina # Name Surname Company
   avatar                :     # Try a square file. Info: Your github avatar on https://github.com/[USERNAME].png
   location              :  "Madrid, Spain"   # New York, USA 
-#  links:                
-#    - url:  #A link or email: https://twitter.com/jack, mail@example.com
+links:                
+    - url:  adolfo.alsina@urjc.es
 #      icon: # A Fontawesome 5 code: fab fa-twitter - see https://fontawesome.com/
 #    - url:  # Another link
 #      icon: # Anothet FontAwesome code
