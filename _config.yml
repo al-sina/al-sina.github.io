@@ -103,11 +103,11 @@ navbar:
   - title   : Teaching
     url     : /teaching/
 #Social links to be placed on your site footer
-#footer:
-#  links:
-#    - label : #Repo on Github # Label
-#      icon  : #fab fa-github # Fontawesome 5 icon
-#      url   : #https://github.com/dieghernan/chulapa-101 # A link or email: https://twitter.com/jack, mail@example.com
+footer:
+  links:
+    - label : Google Scholar # Label
+      icon  : fab fa-email # Fontawesome 5 icon
+      url   : https://github.com/dieghernan/chulapa-101
 #    - label: #"RSS"
 #      icon: #"fa fa-rss"
 #      url:  #"./atom.xml"
