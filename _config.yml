@@ -126,20 +126,20 @@ navbar:
 #    - title: # Child label		
 #      url  : # child url	
 #Social links to be placed on your site footer
-footer:
-  links:
-    - label : #Repo on Github # Label
-      icon  : #fab fa-github # Fontawesome 5 icon
-      url   : #https://github.com/dieghernan/chulapa-101 # A link or email: https://twitter.com/jack, mail@example.com
-    - label: #"RSS"
-      icon: #"fa fa-rss"
-      url:  #"./atom.xml"
-  copyright: # default is © <year> <name> 
+#footer:
+#  links:
+#    - label : #Repo on Github # Label
+#      icon  : #fab fa-github # Fontawesome 5 icon
+#      url   : #https://github.com/dieghernan/chulapa-101 # A link or email: https://twitter.com/jack, mail@example.com
+#    - label: #"RSS"
+#      icon: #"fa fa-rss"
+#      url:  #"./atom.xml"
+#  copyright: # default is © <year> <name> 
   
 # C. Theme Settings
 # Google Fonts https://fonts.google.com/, add as many as you need
 googlefonts:
- # - url : # 'https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap'
+  - url : 'https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap'
 
 # Theme and colors
 chulapa-skin: 
