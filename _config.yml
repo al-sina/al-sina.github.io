@@ -106,12 +106,12 @@ navbar:
 #Social links to be placed on your site footer
 footer:
   links:
-    - label : "Google Scholar" # Label
-      icon  : fab fa-en # Fontawesome 5 icon
+    - label : Google Scholar # Label
+      icon  : fa-solid fa-graduation-cap fa-lg # Fontawesome 5 icon
       url   : https://github.com/dieghernan/chulapa-101
-    - label: "Email"
-      icon: fa-regular fa-envelope
-      url:  "./atom.xml"
+    - label: Email
+      icon: fa-solid fa-envelope fa-lg
+      url:  "mailto:aalsina@igc.gulbenkian.pt"
 #  copyright: # default is © <year> <name> 
   
 # C. Theme Settings
