@@ -12,8 +12,8 @@ repository: al-sina/al-sina.github.io
 # Default values are explained
 locale                  :    #default["en-US"] format language-TERRITORY , e.g fr, en-GB, es-MX, pt-BR
 title                   :    Adolfo Alsina
-url                     :   
-baseurl                 :    
+url                     :    https://al-sina.github.io
+baseurl                 :    /_pages
 timezone                :    Europe/Madrid
 
 # SEO
@@ -96,11 +96,11 @@ navbar:
     img     :  # An small image, try 30x30px
   nav:
   - title   : Research # Label
-    url     : /_pages/research/ # url	
+    url     : /research # url	
   - title   : Teaching
-    url     : teaching/
+    url     : /teaching
   - title   : Cheatsheet
-    url     : cheatsheet/
+    url     : /cheatsheet
 #Social links to be placed on your site footer
 footer:
   links:
@@ -123,21 +123,6 @@ chulapa-skin:
   autothemer  :  
   vars        :    
     
-# D. Jekyll Defaults and collections: see https://jekyllrb.com/
-
-# Blog pagination: on this site /blog/index.html. https://jekyllrb.com/docs/pagination/
-paginate: 4
-paginate_path: "/blog/page:num/"
-paginator_maxnum: 3  #default[3] Custom: max of number to be displayed on the paginator
-
-# Collections https://jekyllrb.com/docs/step-by-step/09-collections/
-collections:
-  cheatsheet:
-    output: true
-    permalink: /cheatsheets/:name
-collections_dir     : 
-permalink           : /:year:month:day_:title/
-
 
 # Defaults https://jekyllrb.com/docs/configuration/front-matter-defaults/
 defaults:
