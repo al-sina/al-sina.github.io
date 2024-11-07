@@ -98,7 +98,7 @@ navbar:
     img     :  # An small image, try 30x30px
   nav:
   - title   : Research # Label
-    url     : research/ # url	
+    url     : /_pages/research/ # url	
   - title   : Teaching
     url     : teaching/
   - title   : Cheatsheet
