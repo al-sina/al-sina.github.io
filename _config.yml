@@ -125,7 +125,7 @@ chulapa-skin:
   autothemer  :  
   vars        :    
     headings-font-family: "Inconsolata"
-    headings-color: "#cb0017"
+    headings-font-weight: 400
     
 
 # Defaults https://jekyllrb.com/docs/configuration/front-matter-defaults/
