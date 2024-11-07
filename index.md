@@ -1,9 +1,11 @@
 ---
 layout: default
 title: Adolfo Alsina
-header_type: hero
+header_type: splash
 subtitle: 
 ---
+
+
 
 Welcome to my personal webpage. I am Adolfo Alsina, a theoretical physicist working at the interface between physics and biology. <br><br> 
 
