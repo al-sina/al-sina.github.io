@@ -124,7 +124,7 @@ chulapa-skin:
   skin        :  journal
   autothemer  :  
   vars        :    
-    font-family-base: "Inconsolata"
+    font-family-title: "Inconsolata"
     
 
 # Defaults https://jekyllrb.com/docs/configuration/front-matter-defaults/
