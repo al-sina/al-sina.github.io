@@ -97,10 +97,10 @@ navbar:
   nav:
   - title   : Research # Label
     url     : /_pages/research # url	
-  - title   : Teaching
-    url     : /_pages/teaching
-  - title   : Cheatsheet
-    url     : /cheatsheet
+  #- title   : Teaching
+  #  url     : /_pages/teaching
+  #- title   : Cheatsheet
+  #  url     : /cheatsheet
 #Social links to be placed on your site footer
 footer:
   links:
