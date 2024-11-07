@@ -107,10 +107,13 @@ footer:
   links:
     - label : Google Scholar # Label
       icon  : fa-solid fa-graduation-cap fa-lg # Fontawesome 5 icon
-      url   : https://github.com/dieghernan/chulapa-101
+      url   : 'https://scholar.google.com/citations?user=LBO33WsAAAAJ&hl=en'
     - label: Email
       icon: fa-solid fa-envelope fa-lg
       url:  "mailto:adolfo.alsina@urjc.es"
+    - label: Orcid
+      icon: fab fa-orcid fa-lg
+      url: 'https://orcid.org/0000-0003-2173-0777'
 #  copyright: # default is © <year> <name> 
   
 # C. Theme Settings
