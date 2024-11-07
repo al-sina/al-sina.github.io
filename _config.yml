@@ -103,6 +103,8 @@ navbar:
     url     : /research/ # url	
   - title   : Teaching
     url     : /teaching/
+  - title   : Cheatsheet
+    url     : /cheatsheet/
 #Social links to be placed on your site footer
 footer:
   links:
