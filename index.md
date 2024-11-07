@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Adolfo Alsina
-header_type: splash
+header_type: base
 subtitle: 
+header_img: /images/AA.png
 ---
 
 
