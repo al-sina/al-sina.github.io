@@ -1,9 +1,8 @@
 remote_theme: dieghernan/chulapa
+github: [metadata]
 
 # Find errors on this file with http://www.yamllint.com/
 ### Site metadata ###
-
-title: Adolfo Alsina
 repository: al-sina/al-sina.github.io
 
 # Chulapa docs: https://dieghernan.github.io/chulapa/docs/02-config
@@ -11,7 +10,7 @@ repository: al-sina/al-sina.github.io
 # A. Site Settings /SEO options
 # Overall options for your site, would affect your site SEO
 # Default values are explained
-locale                  :     #default["en-US"] format language-TERRITORY , e.g fr, en-GB, es-MX, pt-BR
+locale                  :    #default["en-US"] format language-TERRITORY , e.g fr, en-GB, es-MX, pt-BR
 title                   :    Adolfo Alsina
 url                     :   
 baseurl                 :    
