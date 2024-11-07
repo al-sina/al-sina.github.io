@@ -13,7 +13,7 @@ repository: al-sina/al-sina.github.io
 locale                  :    #default["en-US"] format language-TERRITORY , e.g fr, en-GB, es-MX, pt-BR
 title                   :    Adolfo Alsina
 url                     :    https://al-sina.github.io
-baseurl                 :    /_pages
+baseurl                 :    
 timezone                :    Europe/Madrid
 
 # SEO
@@ -96,9 +96,9 @@ navbar:
     img     :  # An small image, try 30x30px
   nav:
   - title   : Research # Label
-    url     : /research # url	
+    url     : /pages_/research # url	
   - title   : Teaching
-    url     : /teaching
+    url     : /pages_/teaching
   - title   : Cheatsheet
     url     : /cheatsheet
 #Social links to be placed on your site footer
