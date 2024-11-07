@@ -121,8 +121,8 @@ googlefonts:
 
 # Theme and colors
 chulapa-skin: 
-  skin        :  academia
-  #autothemer  :  # Autotheming may not have any effect
+  skin        :  journal
+  autothemer  :  
   vars        :    
     
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
