@@ -100,11 +100,11 @@ navbar:
     img     :  # An small image, try 30x30px
   nav:
   - title   : Research # Label
-    url     : /research/ # url	
+    url     : research/ # url	
   - title   : Teaching
-    url     : /teaching/
+    url     : teaching/
   - title   : Cheatsheet
-    url     : /cheatsheet/
+    url     : cheatsheet/
 #Social links to be placed on your site footer
 footer:
   links:
