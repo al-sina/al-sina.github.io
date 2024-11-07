@@ -96,9 +96,9 @@ navbar:
     img     :  # An small image, try 30x30px
   nav:
   - title   : Research # Label
-    url     : /pages_/research # url	
+    url     : /_pages/research # url	
   - title   : Teaching
-    url     : /pages_/teaching
+    url     : /_pages/teaching
   - title   : Cheatsheet
     url     : /cheatsheet
 #Social links to be placed on your site footer
