@@ -110,7 +110,7 @@ footer:
       url   : https://github.com/dieghernan/chulapa-101
     - label: Email
       icon: fa-solid fa-envelope fa-lg
-      url:  "mailto:aalsina@igc.gulbenkian.pt"
+      url:  "mailto:adolfo.alsina@urjc.es"
 #  copyright: # default is © <year> <name> 
   
 # C. Theme Settings
@@ -124,8 +124,6 @@ chulapa-skin:
   skin        :  journal
   autothemer  :  
   vars        :    
-    headings-font-family: "Inconsolata"
-    headings-font-weight: 400
     
 
 # Defaults https://jekyllrb.com/docs/configuration/front-matter-defaults/
