@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Adolfo Alsina
-header_type: hero
+header_type: image
 subtitle: 
 header_img: /images/AA.png
 ---
