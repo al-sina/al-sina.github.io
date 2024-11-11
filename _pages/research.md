@@ -6,9 +6,7 @@ title: Research interests
 
 ## Model-based inference of cell-cycle dynamics
 <img src="/images/FACS_webpage.png" alt="FACS profiles yeast" style="width:625px; margin-bottom:-75px; margin-top:-75px"/>
-<p style="text-align:justify; font-size:16px">The cell cycle of eukaryotic cells is a highly regulated process, composed of several steps that need to be carefully orchestrated and completed in a timely manner. We have developed...
-  
-  Nevertheless, the timing of cell cycle events presents both cell-to-cell variability and dependence on environmental conditions such as temperature or nutrient abundance. To disentangle intrinsic and extrinsic contributions to the timing of cell cycle events, I have developed a bayesian inference framework that extracts these contributions from high-throughput flow cytometry data.</p>
+<p style="text-align:justify; font-size:16px">The cell cycle of eukaryotic cells is a highly regulated process, composed of several steps that need to be carefully orchestrated and completed in a timely manner. To understand how the timing of cell cycle events depends on environmental conditions, we have developed a model-based inference framework that extracts the fraction of time allocated to the major cell cycle phases from high-throughput flow cytometry data of asynchronous cell populations.</p>
 
 ## Phenotypic plasticity in social insects
 <img src="/images/Wasps.png" alt="Nest of Polistes Canadensis" style="width:625px; height:275px; margin-top:50px;"/>
