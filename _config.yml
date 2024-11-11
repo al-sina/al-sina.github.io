@@ -114,6 +114,9 @@ footer:
     - label: Orcid
       icon: fab fa-orcid fa-lg
       url: 'https://orcid.org/0000-0003-2173-0777'
+    - label: URJC
+      icon: fa fa-university
+      url: 'https://gestion2.urjc.es/pdi/ver/adolfo.alsina'
 #  copyright: # default is © <year> <name> 
   
 # C. Theme Settings
