@@ -5,7 +5,7 @@ title: Research interests
 <p style='text-align:justify'>My research is centred around the question of how can biological systems integrate processes at different levels of organisation, from the microscopic to the macroscopic, to robustly perform a large variety of functions. Below there is a (non-exhaustive) selection of my current research interests in no particular order.</p>
 
 ## Model-based inference of cell-cycle dynamics
-<img src="/images/FACS_webpage.png" alt="FACS profiles yeast" style="width:625px; margin-bottom:-75px; margin-top:-75px"/>
+<img src="/images/FACS_web.png" alt="FACS inference" style="width:625px; margin-bottom:-75px; margin-top:-75px"/>
 <p style="text-align:justify; font-size:16px">The cell cycle of eukaryotic cells is a highly regulated process, composed of several steps that need to be carefully orchestrated and completed in a timely manner. To understand how the timing of cell cycle events depends on environmental conditions, we have developed a model-based inference framework that extracts the fraction of time allocated to the major cell cycle phases from high-throughput flow cytometry data of asynchronous cell populations.</p>
 
 ## Phenotypic plasticity in social insects
