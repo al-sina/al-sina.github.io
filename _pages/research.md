@@ -12,7 +12,7 @@ title: Research interests
 <img src="/images/Wasps.png" alt="Nest of Polistes Canadensis" style="width:625px; height:275px; margin-top:50px;"/>
 <p style="text-align:justify; font-size:10px; float:right">@Solenn Patalano</p>
 <br><br>
-<p style="text-align:justify; font-size:16px">Biological systems can form and maintain complex structures in noisy environments while, at the same time, retaining the capability of remodelling such structures in response to the right cues. To address how biological systems simultaneously achieve robust specialisation and rapid plasticity, I have studied how these properties emerge from the interplay between processes taking place at the molecular and population levels in colonies of primitively social insects.</p>
+<p style="text-align:justify; font-size:16px">Biological systems can form and maintain complex structures in noisy environments while, at the same time, retaining the capability of remodelling such structures in response to the right cues. To address how biological systems simultaneously achieve robust specialisation and rapid plasticity, we have studied how these properties emerge from the interplay between processes taking place at the molecular and population levels in colonies of primitively social insects.</p>
 
 ## Driven stochastic many-particle systems
 <img src="/images/Smarticles.png" alt="Smarticles cartoon" style="width:625px; margin-top:50px; margin-bottom:50px;"/>
