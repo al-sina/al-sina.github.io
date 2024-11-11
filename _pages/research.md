@@ -15,6 +15,6 @@ title: Research interests
 <p style="text-align:justify; font-size:16px">Biological systems can form and maintain complex structures in noisy environments while, at the same time, retaining the capability of remodelling such structures in response to the right cues. To address how biological systems simultaneously achieve robust specialisation and rapid plasticity, we have studied how these properties emerge from the interplay between processes taking place at the molecular and population levels in colonies of primitively social insects.</p>
 
 ## Driven stochastic many-particle systems
-<img src="/images/Smarticles.png" alt="Smarticles cartoon" style="width:625px; margin-top:50px;"/>
+<img src="/images/Smarticles_web.png" alt="Smarticles cartoon" style="width:625px; margin-top:50px;"/>
 <p style="text-align:justify; font-size:16px">
 Active systems exhibit collective properties not present in their passive counterparts, such as flocking or motility induced phase separation. These properties arise as a result of the nature of inter-particle interactions, which are commonly considered to be time independent. However, in many situations of interest the interactions are shaped by the dynamics themselves. Inspired by living systems constantly adapting to changes in their surroundings, we propose a minimal model for adaptive active matter as a stochastic lattice gas of particles driven by deep neural networks. In particular, we study the emergence of collective behaviour from inter-particle interactions that depend on the history of the dynamics.</p>
