@@ -2,15 +2,13 @@
 layout: default
 title: Research interests
 ---
-<p style='text-align:justify'>My research is centred around the question of how can biological systems integrate processes at different levels of organisation, from the microscopic to the macroscopic, to robustly perform a large variety of functions. Below there is a list of my current research interests in no particular order.</p>
+<p style='text-align:justify'>My research is centred around the question of how can biological systems integrate processes at different levels of organisation, from the microscopic to the macroscopic, to robustly perform a large variety of functions. Below there is a (non-exhaustive) selection of my current research interests in no particular order.</p>
 
-## Multiscale control of cell-cycle dynamics
+## Model-based inference of cell-cycle dynamics
 <img src="/images/FACS_webpage.png" alt="FACS profiles yeast" style="width:625px; margin-bottom:-75px; margin-top:-75px"/>
-<p style="text-align:justify; font-size:16px">The cell cycle of eukaryotic cells is a highly regulated process, composed of several steps that need to be carefully orchestrated and completed in a timely manner. Nevertheless, the timing of cell cycle events presents both cell-to-cell variability and dependence on environmental conditions such as temperature or nutrient abundance. To disentangle intrinsic and extrinsic contributions to the timing of cell cycle events, I have developed a bayesian inference framework that extracts these contributions from high-throughput flow cytometry data.</p>
-
-## Disregulation of tissue homeostasis
-<img src="/images/Cell_cartoon.png" alt="Two cell-type circuit" style="width:625px; margin-bottom:50px; margin-top:50px"/>
-<p style="text-align:justify; font-size:16px">Despite their out of equilibrum nature, biological systems can maintain physiological variables in an optimal operational regime, a property known as homeostasis. However, homeostasic properties can be altered in response to internal and environmental signals. By focusing on a minimal in vitro model of a tissue, I study the role of intrinsic and extrinsic perturbations in the disregulation of tissue homeostasis and how the interplay between the two shapes the dynamics of the system.</p>
+<p style="text-align:justify; font-size:16px">The cell cycle of eukaryotic cells is a highly regulated process, composed of several steps that need to be carefully orchestrated and completed in a timely manner. We have developed...
+  
+  Nevertheless, the timing of cell cycle events presents both cell-to-cell variability and dependence on environmental conditions such as temperature or nutrient abundance. To disentangle intrinsic and extrinsic contributions to the timing of cell cycle events, I have developed a bayesian inference framework that extracts these contributions from high-throughput flow cytometry data.</p>
 
 ## Phenotypic plasticity in social insects
 <img src="/images/Wasps.png" alt="Nest of Polistes Canadensis" style="width:625px; height:275px; margin-top:50px;"/>
