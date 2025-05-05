@@ -4,11 +4,14 @@ title: List of publications
 ---
 <p style='text-align:justify'>Below there is a list of recent publications.</p>
 
-- Model-based inference of cell cycle dynamics captures alterations of the DNA replication programme.
+- **Model-based inference of cell cycle dynamics captures alterations of the DNA replication programme.**
+
   **A. Alsina**, M. Fumasoni* and P. Sartori*.
   [bioRxiv, 2025](https://www.biorxiv.org/content/10.1101/2025.03.19.644216.abstract)
 - Self-organization of plasticity and specialization in a primitively social insect
-  S. Patalano*, **A. Alsina***, C. Gregorio-Rodríguez, M. Bachman, S. Dreier, I. Hernando-Herraez, P. Nana, S. Balasubramanian, S. Sumner, W. Reik, S. Rulands
+  S. Patalano*, **A. Alsina** *, C. Gregorio-Rodríguez, M. Bachman, S. Dreier, I. Hernando-Herraez, P. Nana, S. Balasubramanian, S. Sumner, W. Reik, S. Rulands
   [Cell Systems, Volume 13, Issue 9p768-779.e4, 2022](https://www.cell.com/cell-systems/fulltext/S2405-4712(22)00315-5)
+- Increased Confinement and Polydispersity of STIM1 and Orai1 after Ca2+ Store Depletion
+  X. Qin, L. Liu*, S.K. Lee*, **A Alsina***, T. Liu, Chao Wu, Hojeong Park, Chenglong Yu, Hajin Kim, Jun Chu, Antoine Triller, Ben Zhong Tang, Changbong Hyeon, Chan Young Park, Hyokeun Park
 - 
 
