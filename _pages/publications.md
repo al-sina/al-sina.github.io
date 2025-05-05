@@ -5,8 +5,8 @@ title: List of publications
 <p style='text-align:justify'>Below you can find a list of recent publications:</p>
 
 - **Model-based inference of cell cycle dynamics captures alterations of the DNA replication programme.**\
-    __A. Alsina__, M. Fumasoni\* and P. Sartori\*.\
-    [bioRxiv, 2025](https://www.biorxiv.org/content/10.1101/2025.03.19.644216.abstract)
+  __A. Alsina__, M. Fumasoni\* and P. Sartori\*.\
+  [bioRxiv, 2025](https://www.biorxiv.org/content/10.1101/2025.03.19.644216.abstract)
 - **Self-organization of plasticity and specialization in a primitively social insect**\
   S. Patalano\*, __A. Alsina__\*, C. Gregorio-Rodríguez, M. Bachman, S. Dreier, I. Hernando-Herraez, P. Nana, S. Balasubramanian, S. Sumner, W. Reik, S. Rulands.\
   [Cell Systems, Volume 13, Issue 9p768-779.e4, 2022](https://www.cell.com/cell-systems/fulltext/S2405-4712(22)00315-5)
