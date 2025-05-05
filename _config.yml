@@ -98,6 +98,8 @@ navbar:
   nav:
   - title   : Research # Label
     url     : /_pages/research # url	
+  - title   : Publications # Label
+    url     : /_pages/publications # url	
 
 #Social links to be placed on your site footer
 footer:
