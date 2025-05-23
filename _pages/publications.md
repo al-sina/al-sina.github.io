@@ -15,7 +15,7 @@ title: List of publications
   [Biophysical Journal, Volume 118, Issue 1p70-84, 2020](https://www.cell.com/biophysj/fulltext/S0006-3495(19)30942-7)
 - **Real-time subpixel-accuracy tracking of single mitochondria in neurons reveals heterogeneous mitochondrial motion**\
   __A. Alsina__\*, W.M. Lai\*, W.K. Wong\*, X. Qin, M. Zhang, H. Park.\
-  [Biochemical and Biophysical Research Communications, Volume 493, Issue 1, Pages 776-782, 2017](www.sciencedirect.com/science/article/abs/pii/S0006291X17316868)
+  [Biochemical and Biophysical Research Communications, Volume 493, Issue 1, Pages 776-782, 2017](https://www.sciencedirect.com/science/article/abs/pii/S0006291X17316868)
 - **Balance of microtubule stiffness and cortical tension determines the size of blood cells with marginal band across species**\
   S. Dmitrieff, __A. Alsina__, A. Mathur, F. Nédélec.\
   [Proceedings of the National Academy of Science, 114 (17) 4418-4423, 2017](https://www.pnas.org/doi/abs/10.1073/pnas.1618041114)
