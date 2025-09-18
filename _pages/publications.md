@@ -4,6 +4,9 @@ title: List of publications
 ---
 <p style='text-align:justify'>Below you can find a list of recent publications:</p>
 
+- **Emergent interactions lead to collective frustration in robotic matter.**\
+  O.Bektas\*, __A. Alsina__\*, and S. Rulands\*.\
+  [aRxiv, 2025](https://arxiv.org/pdf/2507.22148)
 - **Model-based inference of cell cycle dynamics captures alterations of the DNA replication programme.**\
   __A. Alsina__, M. Fumasoni\* and P. Sartori\*.\
   [bioRxiv, 2025](https://www.biorxiv.org/content/10.1101/2025.03.19.644216.abstract)
